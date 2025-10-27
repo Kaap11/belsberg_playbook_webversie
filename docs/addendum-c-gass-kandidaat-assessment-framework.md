@@ -36,7 +36,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
 *Begrijpt de business context en uitdagingen?*
 
-## Cultural & Interview Fit:
+Cultural & Interview Fit:
 
 **4. Organisatie Match** (1=slechte fit, 5=perfecte fit)  
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  

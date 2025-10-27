@@ -6,7 +6,7 @@
 vraag op het juiste moment brengt je dichter bij je doel - verkeerde
 vragen leiden af of blokkeren vooruitgang.
 
-## 1. Open Vragen 🌐
+### 1. Open Vragen 🌐
 
 **Doel**: Diepgang krijgen, relaties opbouwen, nieuwe informatie
 ontdekken
@@ -38,7 +38,7 @@ ontdekken
 
 - Behoeften en motivaties onduidelijk zijn
 
-## 2. Directe Vragen 📊
+### 2. Directe Vragen 📊
 
 **Doel**: Feiten en cijfers achterhalen, verificatie, data verzamelen
 
@@ -70,7 +70,7 @@ ontdekken
 
 - netwerk informatie verzameld wordt
 
-## 3. Gesloten Vragen 🔒
+### 3. Gesloten Vragen 🔒
 
 **Doel**: Bevestiging krijgen, commitment vastleggen, richting bepalen
 
@@ -102,7 +102,7 @@ ontdekken
 
 - Vervolgstappen gepland moeten worden
 
-## 4. Keuze Vragen ⚖️
+### 4. Keuze Vragen ⚖️
 
 **Doel**: Voorkeuren achterhalen, besluitvorming versnellen, opties
 beperken
@@ -137,7 +137,7 @@ beperken
 
 ## A2: Strategische Vraag Sequencing
 
-## Techniek 1: Gesloten → Open (Expand)
+Techniek 1: Gesloten → Open (Expand)
 
 **Strategie**: Start met verificatie, ga door naar exploratie
 **Patroon**: Feit vaststellen → Context ontdekken → Diepgang bereiken
@@ -158,7 +158,7 @@ beperken
 
 3.  🌐 "Hoe zou die perfecte kans eruit zien?"
 
-## Techniek 2: Open → Gesloten (Focus)
+Techniek 2: Open → Gesloten (Focus)
 
 **Strategie**: Verzamel eerst brede informatie, focus dan op actie
 **Patroon**: Exploratie → Prioritering → Commitment
@@ -185,7 +185,7 @@ beperken
 
 ## A3: Vraagtype Selectie per Gespreksonderdeel
 
-## Opening (Connectie maken)
+Opening (Connectie maken)
 
 - 🔒 "Is dit een goed moment?"
 
@@ -193,7 +193,7 @@ beperken
 
 - 🌐 "Hoe gaat het met je?"
 
-## Discovery (Informatie verzamelen)
+Discovery (Informatie verzamelen)
 
 - 🌐 "Hoe ziet jullie huidige situatie eruit?"
 
@@ -203,7 +203,7 @@ beperken
 
 - 📊 "Wat is je huidige tarief?"
 
-## Qualification (Geschiktheid checken)
+Qualification (Geschiktheid checken)
 
 - 📊 "Hoeveel jaar ervaring heb je met \[systeem\]?"
 
@@ -211,7 +211,7 @@ beperken
 
 - 🔒 "Ben je beschikbaar voor reizen?"
 
-## Commitment (Vervolgstappen)
+Commitment (Vervolgstappen)
 
 - ⚖️ "Heeft dinsdag of woensdag je voorkeur voor een gesprek?"
 
@@ -221,7 +221,7 @@ beperken
 
 ## A4: Praktische Implementatie
 
-## De DOEL-MIDDEL Check
+De DOEL-MIDDEL Check
 
 Voordat je een vraag stelt, vraag jezelf af:
 
@@ -231,7 +231,7 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 3.  **Hoe formuleer ik de vraag zo dat het doel wordt bereikt?**
 
-## Gesprek Flow Regels
+Gesprek Flow Regels
 
 1.  **Start altijd met gesloten vragen** voor controle en richting
 
@@ -241,7 +241,7 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 4.  **Sluit af met keuze vragen** om tot actie over te gaan
 
-## Energy Management
+Energy Management
 
 - **Hoge energie**: Gebruik gesloten/keuze vragen voor momentum
 
@@ -253,17 +253,7 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 ## A5: Quick Reference
 
-## Vraagtype Iconen voor Playbook
-
-- **🌐** = Open vraag (discovery, relatie)
-
-- **📊** = Directe vraag (feiten, cijfers)
-
-- **🔒** = Gesloten vraag (bevestiging, commitment)
-
-- **⚖️** = Keuze vraag (voorkeuren, beslissingen)
-
-## Top 5 Vragen per Type
+### Top 5 Vragen per Type
 
 **Open Vragen** 🌐:
 
@@ -313,7 +303,7 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 5.  "Wil je beginnen met een intake of eerst een informeel gesprek?"
 
-## Common Mistakes
+### 3 Common Mistakes
 
 - ❌ **Alleen open vragen gebruiken**: Gesprek krijgt geen richting
 
@@ -323,10 +313,9 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 - ❌ **Verkeerd vraagtype voor het doel**: Inefficiënt en frustrerend
 
-## Daily Practice
+### Daily Practice
 
-- ☐ **Elke dag**: Let op welk vraagtype je het meest gebruikt ☐ **Per
-
-gesprek**: Check of je vraagtype past bij je doel ☐ **Wekelijks**: Oefen
-met 1 nieuw vraagtype dat je minder gebruikt ☐ **Maandelijks**:
-Analyseer welke vragen de beste resultaten geven
+- ☐ **Elke dag**: Let op welk vraagtype je het meest gebruikt  
+- ☐ **Per gesprek**: Check of je vraagtype past bij je doel  
+- ☐ **Wekelijks**: Oefen met 1 nieuw vraagtype dat je minder gebruikt  
+- ☐ **Maandelijks**: Analyseer welke vragen de beste resultaten geven
