@@ -223,7 +223,7 @@ Past Role (Vorige Functie)
 **Reden voor vertrek**: Einde contract/Nieuwe uitdaging/Anders:
 \_\_\_\_\_\_\_\_\_\_\_
 
-#**Responsibilities (Wat Deed Je)**
+**Responsibilities (Wat Deed Je)**
 
 **Belangrijkste verantwoordelijkheden**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
