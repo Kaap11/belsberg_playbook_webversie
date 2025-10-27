@@ -24,7 +24,7 @@ beschikbaar)
 
 Focus op top 20% → 3-5 sendouts binnen 48 uur
 
-## 80-20 REGEL IN SALES & ACQUISITIE**
+## 80-20 REGEL IN SALES & ACQUISITIE
 
 **Principe:** 20% van je prospects levert 80% van je business op.
 
@@ -33,7 +33,7 @@ Focus op top 20% → 3-5 sendouts binnen 48 uur
 \- **Focus op high-potential accounts** met beste fit en urgentie  
 - **Rest benaderen** voor pipeline building en marktinzicht
 
-## Prospect Categorisatie
+## PROSPECT CATEGORISATIE
 
 **A-Prospects (Top 20%):**
 

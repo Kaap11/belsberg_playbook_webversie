@@ -2,7 +2,7 @@
 
 ## Kandidaat Communicatie Templates
 
-## Template D1: Bevestiging Prescreen Afspraak
+### Template D1: Bevestiging Prescreen Afspraak
 
 **Wanneer te gebruiken:** Direct na approach call waarbij prescreen is
 ingepland **Doel:** Bevestigen afspraak en verwachtingen scheppen
@@ -23,7 +23,7 @@ Tot \[dag\]!
 
 \[Jouw naam\] Belsberg
 
-## Template D2: CV Reminder
+### Template D2: CV Reminder
 
 **Wanneer te gebruiken:** Als kandidaat CV nog niet heeft doorgestuurd
 na toezegging **Doel:** Vriendelijke reminder voor CV ontvangst
@@ -41,7 +41,7 @@ komt.
 
 Groet, \[Jouw naam\]
 
-## Template D3: Update over Matches
+### Template D3: Update over Matches
 
 **Wanneer te gebruiken:** Als je actief matches hebt voor kandidaat
 **Doel:** Kandidaat warm houden en interesse peilen
@@ -61,7 +61,7 @@ gesprek in.
 
 Groet, \[Jouw naam\]
 
-## Template D4: Touchpoint zonder Match
+### Template D4: Touchpoint zonder Match
 
 **Wanneer te gebruiken:** Periodieke check-in met kandidaat zonder
 directe opdracht **Doel:** Relatie onderhouden en status updaten
@@ -86,7 +86,7 @@ Groet, \[Jouw naam\]
 
 ## Klant Communicatie Templates
 
-## Template D5: Intake Bevestiging
+### Template D5: Intake Bevestiging
 
 **Wanneer te gebruiken:** Direct na job intake gesprek (binnen 4 uur)
 **Doel:** Bevestigen afspraken en verwachtingen alignment
@@ -131,7 +131,7 @@ Bij vragen ben ik altijd bereikbaar.
 
 Groet, \[Jouw naam\]
 
-## Template D6: Kandidaat Presentatie
+### Template D6: Kandidaat Presentatie
 
 **Wanneer te gebruiken:** Bij het voorstellen van kandidaat aan klant
 **Doel:** Kandidaat sterk positioneren en interesse wekken
@@ -165,7 +165,7 @@ CV in bijlage. Interesse om te bespreken?
 
 Groet, \[Jouw naam\]
 
-## Template D7: Follow-up na Acquisitie Gesprek
+### Template D7: Follow-up na Acquisitie Gesprek
 
 **Wanneer te gebruiken:** 24 uur na acquisitie/business development
 gesprek **Doel:** Momentum behouden en vervolgstappen bevestigen
@@ -193,7 +193,7 @@ Groet, \[Jouw naam\]
 
 ## Sourcing Templates
 
-## Template D8: Job Posting (LinkedIn/Indeed)
+### Template D8: Job Posting (LinkedIn/Indeed)
 
 **Wanneer te gebruiken:** Bij starten sourcing campagne **Doel:**
 Zichtbaarheid creëren zonder klant te onthullen
@@ -214,7 +214,7 @@ Interesse? Reageer of stuur een DM.
 
 \#freelance \#\[relevante hashtags\]
 
-## Template D9: E-shot - Hoge Urgentie
+### Template D9: E-shot - Hoge Urgentie
 
 **Wanneer te gebruiken:** Bij urgent vacature met korte deadline
 **Doel:** Snel actie uitlokken
@@ -235,7 +235,7 @@ Bel direct \[nummer\] of reageer snel!
 
 Groet, \[Jouw naam\]
 
-## Template D10: E-shot - Gemiddelde Urgentie
+### Template D10: E-shot - Gemiddelde Urgentie
 
 **Wanneer te gebruiken:** Bij standaard vacature met normale tijdlijn
 **Doel:** Interesse wekken zonder druk
@@ -265,7 +265,7 @@ Zou dit interessant zijn voor jou of iemand in je netwerk?
 
 Groet, \[Jouw naam\]
 
-## Template D11: E-shot - Lage Urgentie
+### Template D11: E-shot - Lage Urgentie
 
 **Wanneer te gebruiken:** Bij niet-urgente vacature of pipeline building
 **Doel:** Informeren zonder druk
@@ -289,7 +289,7 @@ Interesse of ken je iemand? Laat het me weten.
 
 Groet, \[Jouw naam\]
 
-## Template D12: LinkedIn InMail
+### Template D12: LinkedIn InMail
 
 **Wanneer te gebruiken:** Bij LinkedIn sourcing campagne **Doel:**
 Gepersonaliseerde outreach naar nieuwe kandidaten
@@ -313,7 +313,7 @@ Groet, \[Jouw naam\] Belsberg - Specialist in freelance HR/HRIT
 
 ## Closing Templates
 
-## Template D13: Bevestiging Plaatsing - Klant
+### Template D13: Bevestiging Plaatsing - Klant
 
 **Wanneer te gebruiken:** Direct na mondelinge deal (binnen 2 uur)
 **Doel:** Alle afspraken schriftelijk bevestigen
@@ -367,7 +367,7 @@ Het contract volgt vandaag/morgen. Bij vragen hoor ik het graag.
 
 Met vriendelijke groet, \[Jouw naam\]
 
-## Template D14: Bevestiging Plaatsing - Kandidaat
+### Template D14: Bevestiging Plaatsing - Kandidaat
 
 **Wanneer te gebruiken:** Direct na bevestigingsmail aan klant (zelfde
 dag) **Doel:** Kandidaat enthousiast maken en praktisch voorbereiden
@@ -432,7 +432,7 @@ mailen.
 
 Met vriendelijke groet, \[Jouw naam\]
 
-## Template D15: Contract Verzending
+### Template D15: Contract Verzending
 
 **Wanneer te gebruiken:** Bij versturen van contract (dag 1-2 na deal)
 **Doel:** Duidelijke instructies voor ondertekening
@@ -472,7 +472,7 @@ Met vriendelijke groet, \[Jouw naam\]
 
 ## Relatiebeheer Templates
 
-## Template D16: B-Relatie Kwartaal Check-in
+### Template D16: B-Relatie Kwartaal Check-in
 
 **Wanneer te gebruiken:** Elke 3 maanden voor B-relaties **Doel:**
 Relatie warm houden en opportunities signaleren
@@ -495,7 +495,7 @@ Zin om binnenkort bij te praten? Koffie of een korte call?
 
 Groet, \[Jouw naam\]
 
-## Template D17: C-Relatie Halfjaarlijks Contact
+### Template D17: C-Relatie Halfjaarlijks Contact
 
 **Wanneer te gebruiken:** Elke 6 maanden voor C-relaties **Doel:**
 Minimaal contact behouden
