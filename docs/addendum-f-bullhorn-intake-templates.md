@@ -1,6 +1,6 @@
-# **ADDENDUM F: Bullhorn Intake Templates**
+# ADDENDUM F: Bullhorn Intake Templates
 
-### **Template F1: Job Intake Template Bullhorn**
+## Template F1: Job Intake Template Bullhorn
 
 **Vakgebied**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Klant**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Datum**: \_\_\_\_\_\_\_\_\_\_\_
@@ -121,7 +121,7 @@ Close (Afsluiting & Vervolgstappen)
 **Volgende contact moment**: \_\_\_\_\_\_\_\_\_\_ **Doel**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Template F2: Kandidaat Intake Template Bullhorn**
+## Template F2: Kandidaat Intake Template Bullhorn
 
 **Naam**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Telefoon**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Email**:
@@ -297,7 +297,7 @@ Close on CV (Afsluiting CV)
 
 **netwerk categorie**: A-relatie/B-relatie/C-relatie
 
-### **Template F3: Client Intake Template Bullhorn**
+## Template F3: Client Intake Template Bullhorn
 
 **Bedrijf**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Contactpersoon**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Functie**:

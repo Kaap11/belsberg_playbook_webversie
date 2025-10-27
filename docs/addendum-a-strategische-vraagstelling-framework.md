@@ -1,12 +1,12 @@
-# **ADDENDUM A: Strategische Vraagstelling Framework**
+# ADDENDUM A: Strategische Vraagstelling Framework
 
-## **A1: De 4 Vraagtypen - Doel Bepaalt Middel**
+## A1: De 4 Vraagtypen - Doel Bepaalt Middel
 
 **Kernprincipe**: Vragen zijn middelen om doelen te bereiken. De juiste
 vraag op het juiste moment brengt je dichter bij je doel - verkeerde
 vragen leiden af of blokkeren vooruitgang.
 
-### 1. Open Vragen 🌐
+## 1. Open Vragen 🌐
 
 **Doel**: Diepgang krijgen, relaties opbouwen, nieuwe informatie
 ontdekken
@@ -38,7 +38,7 @@ ontdekken
 
 - Behoeften en motivaties onduidelijk zijn
 
-### 2. Directe Vragen 📊
+## 2. Directe Vragen 📊
 
 **Doel**: Feiten en cijfers achterhalen, verificatie, data verzamelen
 
@@ -70,7 +70,7 @@ ontdekken
 
 - netwerk informatie verzameld wordt
 
-### 3. Gesloten Vragen 🔒
+## 3. Gesloten Vragen 🔒
 
 **Doel**: Bevestiging krijgen, commitment vastleggen, richting bepalen
 
@@ -102,7 +102,7 @@ ontdekken
 
 - Vervolgstappen gepland moeten worden
 
-### 4. Keuze Vragen ⚖️
+## 4. Keuze Vragen ⚖️
 
 **Doel**: Voorkeuren achterhalen, besluitvorming versnellen, opties
 beperken
@@ -135,9 +135,9 @@ beperken
 
 - Planning concrete vorm moet krijgen
 
-## **A2: Strategische Vraag Sequencing**
+## A2: Strategische Vraag Sequencing
 
-### Techniek 1: Gesloten → Open (Expand)
+## Techniek 1: Gesloten → Open (Expand)
 
 **Strategie**: Start met verificatie, ga door naar exploratie
 **Patroon**: Feit vaststellen → Context ontdekken → Diepgang bereiken
@@ -158,7 +158,7 @@ beperken
 
 3.  🌐 "Hoe zou die perfecte kans eruit zien?"
 
-### Techniek 2: Open → Gesloten (Focus)
+## Techniek 2: Open → Gesloten (Focus)
 
 **Strategie**: Verzamel eerst brede informatie, focus dan op actie
 **Patroon**: Exploratie → Prioritering → Commitment
@@ -183,9 +183,9 @@ beperken
 
 4.  🔒 "Zal ik uitkijken naar passende rollen?"
 
-## **A3: Vraagtype Selectie per Gespreksonderdeel**
+## A3: Vraagtype Selectie per Gespreksonderdeel
 
-### Opening (Connectie maken)
+## Opening (Connectie maken)
 
 - 🔒 "Is dit een goed moment?"
 
@@ -193,7 +193,7 @@ beperken
 
 - 🌐 "Hoe gaat het met je?"
 
-### Discovery (Informatie verzamelen)
+## Discovery (Informatie verzamelen)
 
 - 🌐 "Hoe ziet jullie huidige situatie eruit?"
 
@@ -203,7 +203,7 @@ beperken
 
 - 📊 "Wat is je huidige tarief?"
 
-### Qualification (Geschiktheid checken)
+## Qualification (Geschiktheid checken)
 
 - 📊 "Hoeveel jaar ervaring heb je met \[systeem\]?"
 
@@ -211,7 +211,7 @@ beperken
 
 - 🔒 "Ben je beschikbaar voor reizen?"
 
-### Commitment (Vervolgstappen)
+## Commitment (Vervolgstappen)
 
 - ⚖️ "Heeft dinsdag of woensdag je voorkeur voor een gesprek?"
 
@@ -219,9 +219,9 @@ beperken
 
 - 🔒 "Spreken we volgende week af voor feedback?"
 
-## **A4: Praktische Implementatie**
+## A4: Praktische Implementatie
 
-### De DOEL-MIDDEL Check
+## De DOEL-MIDDEL Check
 
 Voordat je een vraag stelt, vraag jezelf af:
 
@@ -231,7 +231,7 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 3.  **Hoe formuleer ik de vraag zo dat het doel wordt bereikt?**
 
-### Gesprek Flow Regels
+## Gesprek Flow Regels
 
 1.  **Start altijd met gesloten vragen** voor controle en richting
 
@@ -241,7 +241,7 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 4.  **Sluit af met keuze vragen** om tot actie over te gaan
 
-### Energy Management
+## Energy Management
 
 - **Hoge energie**: Gebruik gesloten/keuze vragen voor momentum
 
@@ -251,9 +251,9 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 - **Verwarring**: Gebruik directe vragen om helderheid te krijgen
 
-## **A5: Quick Reference**
+## A5: Quick Reference
 
-### Vraagtype Iconen voor Playbook
+## Vraagtype Iconen voor Playbook
 
 - **🌐** = Open vraag (discovery, relatie)
 
@@ -263,7 +263,7 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 - **⚖️** = Keuze vraag (voorkeuren, beslissingen)
 
-### Top 5 Vragen per Type
+## Top 5 Vragen per Type
 
 **Open Vragen** 🌐:
 
@@ -313,7 +313,7 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 5.  "Wil je beginnen met een intake of eerst een informeel gesprek?"
 
-### Common Mistakes
+## Common Mistakes
 
 - ❌ **Alleen open vragen gebruiken**: Gesprek krijgt geen richting
 
@@ -323,7 +323,7 @@ Voordat je een vraag stelt, vraag jezelf af:
 
 - ❌ **Verkeerd vraagtype voor het doel**: Inefficiënt en frustrerend
 
-### Daily Practice
+## Daily Practice
 
 - ☐ **Elke dag**: Let op welk vraagtype je het meest gebruikt ☐ **Per
 

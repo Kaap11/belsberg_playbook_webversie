@@ -1,8 +1,6 @@
-# **ADDENDUM G: 80-20 REGEL**
+# ADDENDUM G: 80-20 REGEL
 
-### 
-
-### 80-20 REGEL IN SOURCING
+## 80-20 REGEL IN SOURCING
 
 **Principe:** 20% van je kandidaten levert 80% van je plaatsingen op.
 
@@ -26,7 +24,7 @@ beschikbaar)
 
 Focus op top 20% → 3-5 sendouts binnen 48 uur
 
-### 80-20 REGEL IN SALES & ACQUISITIE**
+## 80-20 REGEL IN SALES & ACQUISITIE**
 
 **Principe:** 20% van je prospects levert 80% van je business op.
 
@@ -35,7 +33,7 @@ Focus op top 20% → 3-5 sendouts binnen 48 uur
 \- **Focus op high-potential accounts** met beste fit en urgentie  
 - **Rest benaderen** voor pipeline building en marktinzicht
 
-### Prospect Categorisatie
+## Prospect Categorisatie
 
 **A-Prospects (Top 20%):**
 

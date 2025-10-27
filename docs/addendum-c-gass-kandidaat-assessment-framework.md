@@ -1,12 +1,12 @@
-# **ADDENDUM C: GASS Kandidaat Assessment Framework**
+# ADDENDUM C: GASS Kandidaat Assessment Framework
 
-## **GASS Scorecard Template**
+## GASS Scorecard Template
 
 **Kandidaat**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Vacature**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Datum**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## **Scoring Methodiek**
+## Scoring Methodiek
 
 Elke vraag krijgt een score van 1-5:
 
@@ -20,9 +20,9 @@ Elke vraag krijgt een score van 1-5:
 
 - **5** = Uitstekend/perfect
 
-### G - GETS (Krijgt de Baan) - 40% weging
+## G - GETS (Krijgt de Baan) - 40% weging
 
-#### **Technische Match:**
+## Technische Match:
 
 **1. Systeem/Tool Ervaring** (1=geen match, 5=perfecte match)  
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
@@ -36,7 +36,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
 *Begrijpt de business context en uitdagingen?*
 
-#### **Cultural & Interview Fit:**
+## Cultural & Interview Fit:
 
 **4. Organisatie Match** (1=slechte fit, 5=perfecte fit)  
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
@@ -53,9 +53,9 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **G-Score**: (Som van scores ÷ 6) = \_\_\_/5.0
 
-### A - ACCEPTS (Accepteert de Baan) - 30% weging
+## A - ACCEPTS (Accepteert de Baan) - 30% weging
 
-#### **Commerciële Aspecten:**
+## Commerciële Aspecten:
 
 **1. Tarief Realiteit** (1=ver boven budget, 5=onder budget)  
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
@@ -66,7 +66,7 @@ flexibel)
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
 *Is er ruimte voor onderhandeling op voorwaarden?*
 
-#### **Praktische Match:**
+## Praktische Match:
 
 **3. Locatie & Reizen** (1=onacceptabel, 5=ideaal)  
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
@@ -76,7 +76,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
 *Past het aantal dagen/uren & evt. hybride werken bij hun wensen?*
 
-#### **Interesse & Enthousiasme:**
+## Interesse & Enthousiasme:
 
 **5. Bedrijf Interesse** (1=geen interesse, 5=zeer enthousiast)  
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
@@ -88,9 +88,9 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **A-Score**: (Som van scores ÷ 6) = \_\_\_/5.0
 
-### S - STARTS (Start de Baan) - 20% weging
+## S - STARTS (Start de Baan) - 20% weging
 
-#### **Beschikbaarheid:**
+## Beschikbaarheid:
 
 **1. Startdatum** (1=lange vertraging, 5=direct beschikbaar)  
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
@@ -100,7 +100,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
 *Zijn er praktische belemmeringen om te starten?*
 
-#### **Commitment & Focus:**
+## Commitment & Focus:
 
 **3. Andere Processen** (1=veel alternatieven, 5=dit is prioriteit)  
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
@@ -120,9 +120,9 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **S-Score**: (Som van scores ÷ 6) = \_\_\_/5.0
 
-### S - STAYS (Blijft in de Baan) - 10% weging
+## S - STAYS (Blijft in de Baan) - 10% weging
 
-#### **Lange Termijn Match:**
+## Lange Termijn Match:
 
 **1. Carrière Doelen** (1=niet aligned, 5=perfect aligned)  
 Score: ☐1 ☐2 ☐3 ☐4 ☐5  
@@ -143,7 +143,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **S-Score**: (Som van scores ÷ 4) = \_\_\_/5.0
 
-## **GASS TOTAAL SCORE BEREKENING**
+## GASS TOTAAL SCORE BEREKENING
 
 **G (40%)**: \_\_\_/5.0 × 0.40 = \_\_\_  
 **A (30%)**: \_\_\_/5.0 × 0.30 = \_\_\_  
@@ -152,9 +152,9 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **TOTAAL GASS SCORE**: \_\_\_/5.0
 
-## **Actie Strategie op Basis van GASS Score**
+## Actie Strategie op Basis van GASS Score
 
-### 4.5-5.0: PRIORITY CANDIDATE 🌟
+## 4.5-5.0: PRIORITY CANDIDATE 🌟
 
 **Actie**:
 
@@ -168,7 +168,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 - Nauwgezette process management
 
-### 3.5-4.4: STRONG CANDIDATE ✅
+## 3.5-4.4: STRONG CANDIDATE ✅
 
 **Actie**:
 
@@ -182,7 +182,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 - Standaard process follow-up
 
-### 2.5-3.4: BORDERLINE CANDIDATE ⚠️
+## 2.5-3.4: BORDERLINE CANDIDATE ⚠️
 
 **Actie**:
 
@@ -194,7 +194,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 - Mogelijk later in process als backup
 
-### 1.5-2.4: WEAK CANDIDATE 🔄
+## 1.5-2.4: WEAK CANDIDATE 🔄
 
 **Actie**:
 
@@ -206,7 +206,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 - Mogelijk coaching voor toekomstige rollen
 
-### 1.0-1.4: NO MATCH ❌
+## 1.0-1.4: NO MATCH ❌
 
 **Actie**:
 
@@ -218,7 +218,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 - Focus volledig op referrals
 
-## **GASS Quick Assessment**
+## GASS Quick Assessment
 
 Voor snelle inschatting tijdens prescreen gesprek:
 
@@ -237,9 +237,9 @@ Voor snelle inschatting tijdens prescreen gesprek:
 
 - Geen concrete interesse in rol/bedrijf (A-score laag)
 
-## **GASS Verbeterings Tips**
+## GASS Verbeterings Tips
 
-### Lage G (Gets) - Technische/Cultural Fit Issues:
+## Lage G (Gets) - Technische/Cultural Fit Issues:
 
 - Identificeer specifieke development areas
 
@@ -249,7 +249,7 @@ Voor snelle inschatting tijdens prescreen gesprek:
 
 - Focus op compenserende sterke punten
 
-### Lage A (Accepts) - Interesse/Voorwaarden Issues:
+## Lage A (Accepts) - Interesse/Voorwaarden Issues:
 
 - Exploreer onderliggende motivaties dieper
 
@@ -259,7 +259,7 @@ Voor snelle inschatting tijdens prescreen gesprek:
 
 - Addresseer praktische bezwaren proactief
 
-### Lage S (Starts) - Commitment/Timing Issues:
+## Lage S (Starts) - Commitment/Timing Issues:
 
 - Creëer urgentie en FOMO (fear of missing out)
 
@@ -269,7 +269,7 @@ Voor snelle inschatting tijdens prescreen gesprek:
 
 - Plan concrete volgende stappen met deadlines
 
-### Lage S (Stays) - Stabiliteit/Lange Termijn Issues:
+## Lage S (Stays) - Stabiliteit/Lange Termijn Issues:
 
 - Exploreer carrière doelen en ontwikkel wensen
 
@@ -279,7 +279,7 @@ Voor snelle inschatting tijdens prescreen gesprek:
 
 - Focus op growth en leer mogelijkheden
 
-## **GASS During Process Updates**
+## GASS During Process Updates
 
 **Na Interview Round 1**: Update G-score op basis van klant feedback  
 **Na Aanbieding**: Update A-score op basis van kandidaat reactie  

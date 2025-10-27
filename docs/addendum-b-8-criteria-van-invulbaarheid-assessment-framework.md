@@ -1,12 +1,12 @@
-# **ADDENDUM B: 8 Criteria van Invulbaarheid Assessment Framework**
+# ADDENDUM B: 8 Criteria van Invulbaarheid Assessment Framework
 
-## **8 Criteria Scorecard Template**
+## 8 Criteria Scorecard Template
 
 **Vacature**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Datum**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Consultant**:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## **Scoring Methodiek**
+## Scoring Methodiek
 
 Elk criterium krijgt een score van 1-5:
 
@@ -20,7 +20,7 @@ Elk criterium krijgt een score van 1-5:
 
 - **1** = Slecht (zeer negatief voor invulbaarheid)
 
-### 1. Urgentie & Consequentie
+## 1. Urgentie & Consequentie
 
 **Definitie**: De werkelijke noodzaak om iemand aan te nemen EN de pijn
 die ontstaat als de rol niet ingevuld wordt
@@ -45,7 +45,7 @@ positie (te lang) vacant blijft?"*
 
 **Criterium 1 Score**: (Som van 3 scores ÷ 3) = \_\_\_/5.0
 
-### 2. Sign-off (Autorisatie)
+## 2. Sign-off (Autorisatie)
 
 **Definitie**: Formele goedkeuring voor de vacature, budget, en gebruik
 van recruitment bureau
@@ -67,7 +67,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **Criterium 2 Score**: (Som van 3 scores ÷ 3) = \_\_\_/5.0
 
-### 3. Concurrentie
+## 3. Concurrentie
 
 **Definitie**: Andere kanalen/bureaus die aan dezelfde vacature werken
 
@@ -87,7 +87,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **Criterium 3 Score**: (Som van 3 scores ÷ 3) = \_\_\_/5.0
 
-### 4. Recruitment Proces
+## 4. Recruitment Proces
 
 **Definitie**: De snelheid en efficiëntie van het selectieproces
 
@@ -109,7 +109,7 @@ aannemen?"*
 
 **Criterium 4 Score**: (Som van 3 scores ÷ 3) = \_\_\_/5.0
 
-### 5. Aantrekkelijkheid van de Positie
+## 5. Aantrekkelijkheid van de Positie
 
 **Definitie**: Hoe aantrekkelijk is de rol voor kandidaten in de markt
 
@@ -130,7 +130,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **Criterium 5 Score**: (Som van 3 scores ÷ 3) = \_\_\_/5.0
 
-### 6. Beschikbaarheid Kandidaten
+## 6. Beschikbaarheid Kandidaten
 
 **Definitie**: Het aantal gekwalificeerde kandidaten in de markt
 
@@ -151,7 +151,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **Criterium 6 Score**: (Som van 3 scores ÷ 3) = \_\_\_/5.0
 
-### 7. Relatie & Samenwerking
+## 7. Relatie & Samenwerking
 
 **Definitie**: De kwaliteit van de werkrelatie met de klant
 
@@ -171,7 +171,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **Criterium 7 Score**: (Som van 3 scores ÷ 3) = \_\_\_/5.0
 
-### 8. Business Potentieel
+## 8. Business Potentieel
 
 **Definitie**: De totale omzetpotentie van deze klant
 
@@ -194,7 +194,7 @@ klant?"*
 
 **Criterium 8 Score**: (Som van 3 scores ÷ 3) = \_\_\_/5.0
 
-## **TOTAAL SCORE BEREKENING**
+## TOTAAL SCORE BEREKENING
 
 **Criterium 1 (Urgentie & Consequentie)**: \_\_\_/5.0  
 **Criterium 2 (Sign-off)**: \_\_\_/5.0  
@@ -208,9 +208,9 @@ klant?"*
 **TOTAAL INVULBAARHEID SCORE**: (Som van alle 8 criteria) = \_\_\_/40
 punten
 
-## **Actie Strategie op Basis van Invulbaarheidsscore**
+## Actie Strategie op Basis van Invulbaarheidsscore
 
-### 32-40 punten: ZEER GOED INVULBAAR 🎯
+## 32-40 punten: ZEER GOED INVULBAAR 🎯
 
 **Investering**: 20-25 uur over 2-3 dagen  
 **Aanpak**:
@@ -225,7 +225,7 @@ punten
 
 - 80% van beschikbare sourcing tijd
 
-### 24-31 punten: GOED INVULBAAR ✅
+## 24-31 punten: GOED INVULBAAR ✅
 
 **Investering**: 12-18 uur over 3-4 dagen  
 **Aanpak**:
@@ -240,7 +240,7 @@ punten
 
 - 50% van beschikbare sourcing tijd
 
-### 16-23 punten: NEUTRAAL INVULBAAR ⚠️
+## 16-23 punten: NEUTRAAL INVULBAAR ⚠️
 
 **Investering**: 8-12 uur over 4-5 dagen  
 **Aanpak**:
@@ -255,7 +255,7 @@ punten
 
 - 20% van beschikbare sourcing tijd
 
-### 8-15 punten: SLECHT INVULBAAR 🚫
+## 8-15 punten: SLECHT INVULBAAR 🚫
 
 **Investering**: Minimaal of niet accepteren  
 **Aanpak**:
@@ -270,7 +270,7 @@ punten
 
 - Focus op verbetering van scores voordat gestart wordt
 
-## **Quick Assessment**
+## Quick Assessment
 
 Voor snelle inschatting tijdens intake gesprek, stel jezelf deze vragen:
 
@@ -287,9 +287,9 @@ consequenties?"
 **Vuistregel**: Als 4 of meer criteria een score van 2 of lager hebben =
 waarschijnlijk slecht invulbaar
 
-## **Verbeterings Tips per Criterium**
+## Verbeterings Tips per Criterium
 
-### Laag Criterium 1 (Urgentie & Consequentie):
+## Laag Criterium 1 (Urgentie & Consequentie):
 
 - Verken business impact dieper met SPIN-vragen
 
@@ -299,7 +299,7 @@ waarschijnlijk slecht invulbaar
 
 - Creëer urgentie door schaarsheid kandidaten te benoemen
 
-### Laag Criterium 2 (Sign-off):
+## Laag Criterium 2 (Sign-off):
 
 - Identificeer alle beslissers en hun rol
 
@@ -309,7 +309,7 @@ waarschijnlijk slecht invulbaar
 
 - Creëer duidelijke tijdlijn voor goedkeuring
 
-### Laag Criterium 3 (Concurrentie):
+## Laag Criterium 3 (Concurrentie):
 
 - Vraag om exclusiviteit periode (bijv. eerste 2 weken)
 
@@ -319,7 +319,7 @@ waarschijnlijk slecht invulbaar
 
 - Bied meerwaarde services aan die anderen niet bieden
 
-### Laag Criterium 4 (Recruitment Proces):
+## Laag Criterium 4 (Recruitment Proces):
 
 - Maak concrete afspraken over tijdlijnen per fase
 
@@ -329,7 +329,7 @@ waarschijnlijk slecht invulbaar
 
 - Versimpel proces waar mogelijk (minder rondes)
 
-### Laag Criterium 5 (Aantrekkelijkheid):
+## Laag Criterium 5 (Aantrekkelijkheid):
 
 - Help klant betere propositie formuleren
 
@@ -339,7 +339,7 @@ waarschijnlijk slecht invulbaar
 
 - Target kandidaten met andere motivaties dan standaard
 
-### Laag Criterium 6 (Beschikbaarheid Kandidaten):
+## Laag Criterium 6 (Beschikbaarheid Kandidaten):
 
 - Onderhandel over minder kritieke eisen
 
@@ -349,7 +349,7 @@ waarschijnlijk slecht invulbaar
 
 - Vraag klant naar referenties in hun netwerk
 
-### Laag Criterium 7 (Relatie & Samenwerking):
+## Laag Criterium 7 (Relatie & Samenwerking):
 
 - Investeer tijd in relatie opbouw vooraf
 
@@ -359,7 +359,7 @@ waarschijnlijk slecht invulbaar
 
 - Toon expertise door proactief advies te geven
 
-### Laag Criterium 8 (Business Potentieel):
+## Laag Criterium 8 (Business Potentieel):
 
 - Exploreer andere afdelingen en toekomstige behoeften
 
@@ -369,7 +369,7 @@ waarschijnlijk slecht invulbaar
 
 - Verschuif naar moment met meer strategisch potentieel
 
-## **Gebruik During Intake Process**
+## Gebruik During Intake Process
 
 **Timing**: Vul de checklist in tijdens OF direct na het intake gesprek
 (binnen 2 uur)
