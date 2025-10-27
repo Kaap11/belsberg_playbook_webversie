@@ -53,7 +53,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **G-Score**: (Som van scores ÷ 6) = \_\_\_/5.0
 
-#### A - ACCEPTS (Accepteert de Baan) - 30% weging
+### A - ACCEPTS (Accepteert de Baan) - 30% weging
 
 Commerciële Aspecten:
 
@@ -143,7 +143,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **S-Score**: (Som van scores ÷ 4) = \_\_\_/5.0
 
-### GASS TOTAAL SCORE BEREKENING
+## GASS TOTAAL SCORE BEREKENING
 
 **G (40%)**: \_\_\_/5.0 × 0.40 = \_\_\_  
 **A (30%)**: \_\_\_/5.0 × 0.30 = \_\_\_  
@@ -152,7 +152,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **TOTAAL GASS SCORE**: \_\_\_/5.0
 
-### Actie Strategie op Basis van GASS Score
+## Actie Strategie op Basis van GASS Score
 
 4.5-5.0: PRIORITY CANDIDATE 🌟
 
@@ -218,7 +218,7 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 - Focus volledig op referrals
 
-### GASS Quick Assessment
+## GASS Quick Assessment
 
 Voor snelle inschatting tijdens prescreen gesprek:
 
@@ -237,7 +237,7 @@ Voor snelle inschatting tijdens prescreen gesprek:
 
 - Geen concrete interesse in rol/bedrijf (A-score laag)
 
-### GASS Verbeterings Tips
+## GASS Verbeterings Tips
 
 Lage G (Gets) - Technische/Cultural Fit Issues:
 
