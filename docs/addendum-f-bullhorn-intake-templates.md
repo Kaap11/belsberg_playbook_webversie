@@ -1,12 +1,12 @@
 # **ADDENDUM F: Bullhorn Intake Templates**
 
-## **Template F1: Job Intake Template Bullhorn**
+### **Template F1: Job Intake Template Bullhorn**
 
 **Vakgebied**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Klant**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Datum**: \_\_\_\_\_\_\_\_\_\_\_
 **Consultant**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Reason (Reden voor Openstaande Positie)
+Reason (Reden voor Openstaande Positie)
 
 - \[ \] **Uitbreiding team**: Nieuwe functie door groei
 
@@ -21,7 +21,7 @@
 **Toelichting**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Project & Responsibilities (Projectcontext & Verantwoordelijkheden)
+Project & Responsibilities (Projectcontext & Verantwoordelijkheden)
 
 **Hoofddoelstelling project/rol**:
 
@@ -36,7 +36,7 @@
 **Rapporteert aan**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Functie
 manager**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Ideal Profile (Ideaal Kandidaatprofiel)
+Ideal Profile (Ideaal Kandidaatprofiel)
 
 **Must-have competenties**:
 
@@ -50,7 +50,7 @@ manager**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Soft skills prioriteit**:
 
-### Contract Details (Contractinformatie)
+Contract Details (Contractinformatie)
 
 **Startdatum**: \_\_\_\_\_\_\_\_\_\_ **Gewenst**: \_\_\_\_\_\_\_\_\_\_
 **Uiterlijk**: \_\_\_\_\_\_\_\_\_\_
@@ -66,7 +66,7 @@ mogelijkheid**: \_\_\_%
 
 **Uren per week**: \_\_\_\_\_ **Flexibiliteit in uren**: Ja/Nee
 
-### Process (Proces & Planning)
+Process (Proces & Planning)
 
 **Interview rondes**: \_\_\_\_\_ **Deelnemers per ronde**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -85,7 +85,7 @@ mogelijkheid**: \_\_\_%
 **Feedback termijn op CV's**: \_\_\_\_\_ dagen **Wie beoordeelt**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Interview Slots (Beschikbare Interview Tijden)
+Interview Slots (Beschikbare Interview Tijden)
 
 **Week 1**:
 
@@ -108,7 +108,7 @@ mogelijkheid**: \_\_\_%
 
 **Voorkeur**: Ochtend / Middag / Geen voorkeur
 
-### Close (Afsluiting & Vervolgstappen)
+Close (Afsluiting & Vervolgstappen)
 
 **Andere bureaus actief**: Ja/Nee **Welke**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -121,14 +121,14 @@ mogelijkheid**: \_\_\_%
 **Volgende contact moment**: \_\_\_\_\_\_\_\_\_\_ **Doel**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## **Template F2: Kandidaat Intake Template Bullhorn**
+### **Template F2: Kandidaat Intake Template Bullhorn**
 
 **Naam**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Telefoon**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Email**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **LinkedIn**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Availability (Beschikbaarheid)
+Availability (Beschikbaarheid)
 
 **Huidige status**: Beschikbaar vanaf \_\_\_\_\_\_\_\_\_\_
 
@@ -137,7 +137,7 @@ mogelijkheid**: \_\_\_%
 **Vakantie plannen komende 6 maanden**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Regime (Werkregime Voorkeuren)
+Regime (Werkregime Voorkeuren)
 
 **Voorkeur dagen per week**: \_\_\_\_\_ dagen
 
@@ -146,7 +146,7 @@ mogelijkheid**: \_\_\_%
 **Voorkeur werkdagen**: Ma/Di/Wo/Do/Vr **Flexibiliteit**:
 \_\_\_\_\_\_\_\_\_\_\_
 
-### Rate (Tariefverwachtingen)
+Rate (Tariefverwachtingen)
 
 **Gewenst tarief**: €\_\_\_\_\_ per dag **Minimum acceptabel**:
 €\_\_\_\_\_ per dag
@@ -156,7 +156,7 @@ mogelijkheid**: \_\_\_%
 **Flexibiliteit voor juiste opdracht**: Ja/Nee **Toelichting**:
 \_\_\_\_\_\_\_\_\_\_\_
 
-### Location (Locatievoorkeuren)
+Location (Locatievoorkeuren)
 
 **Reisbereidheid**: \_\_\_\_\_ km van woonplaats **Woonplaats**:
 \_\_\_\_\_\_\_\_\_\_\_
@@ -169,7 +169,7 @@ mogelijkheid**: \_\_\_%
 **Ervaring met remote werken**: \_\_\_\_\_ jaar **Tools bekend**:
 \_\_\_\_\_\_\_\_\_\_\_
 
-### Languages (Taalvaardigheden)
+Languages (Taalvaardigheden)
 
 **Nederlands**: Moedertaal/Vloeiend/Conversatie/Basis
 
@@ -181,7 +181,7 @@ mogelijkheid**: \_\_\_%
 
 **Anders**: \_\_\_\_\_\_\_ niveau: \_\_\_\_\_\_\_
 
-### Current Role (Huidige Functie)
+Current Role (Huidige Functie)
 
 **Functietitel**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Bedrijf**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Sector**:
@@ -191,14 +191,14 @@ mogelijkheid**: \_\_\_%
 **Hoe aan deze rol gekomen**: Via bureau/Direct/Netwerk/Anders:
 \_\_\_\_\_\_\_\_\_\_\_
 
-#### **Context (Bedrijfscontext)**
+**Context (Bedrijfscontext)**
 
 **Reden voor deze opdracht**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Bedrijfsgrootte**: \_\_\_\_\_ FTE **Afdeling grootte**: \_\_\_\_\_
 personen **Organisatietype**: Corporate/Scale-up/MKB/Non-profit
 
-#### **Responsibilities (Verantwoordelijkheden)**
+**Responsibilities (Verantwoordelijkheden)**
 
 **Hoofdverantwoordelijkheden**:
 
@@ -212,18 +212,18 @@ personen **Organisatietype**: Corporate/Scale-up/MKB/Non-profit
 **Rapportage structuur**: Rapporteert aan \_\_\_\_\_\_\_
 **Leidinggevenden**: \_\_\_\_\_ personen
 
-### Past Role (Vorige Functie)
+Past Role (Vorige Functie)
 
 **Functietitel**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Bedrijf**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Periode**:
 \_\_\_\_\_\_\_\_\_\_\_
 
-#### **Context (Waarom Verlaten)**
+**Context (Waarom Verlaten)**
 
 **Reden voor vertrek**: Einde contract/Nieuwe uitdaging/Anders:
 \_\_\_\_\_\_\_\_\_\_\_
 
-#### **Responsibilities (Wat Deed Je)**
+#**Responsibilities (Wat Deed Je)**
 
 **Belangrijkste verantwoordelijkheden**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -231,7 +231,7 @@ personen **Organisatietype**: Corporate/Scale-up/MKB/Non-profit
 **Grootste succesverhaal**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Future (Toekomstplannen)
+Future (Toekomstplannen)
 
 **Ideale volgende stap**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -245,7 +245,7 @@ personen **Organisatietype**: Corporate/Scale-up/MKB/Non-profit
 **Deal breakers**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Extra (Aanvullende Informatie)
+Extra (Aanvullende Informatie)
 
 **Wanneer start je met zoeken**: Nu/Over \_\_\_ weken/Passief kijken
 
@@ -259,7 +259,7 @@ personen **Organisatietype**: Corporate/Scale-up/MKB/Non-profit
 **Ervaring met andere bureaus**: Positief/Negatief/Gemengd
 **Toelichting**: \_\_\_\_\_\_\_\_\_\_\_
 
-### Referrals (Doorverwijzingen)
+Referrals (Doorverwijzingen)
 
 **Wie in jouw vakgebied**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -270,7 +270,7 @@ personen **Organisatietype**: Corporate/Scale-up/MKB/Non-profit
 **Professionals die we zouden moeten kennen**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Leads (Business Leads)
+Leads (Business Leads)
 
 **Organisaties met HR/HRIT uitdagingen**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -278,7 +278,7 @@ personen **Organisatietype**: Corporate/Scale-up/MKB/Non-profit
 **Contactpersonen die beslissen over externe hulp**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Administrative (Administratief)
+Administrative (Administratief)
 
 **CV ontvangen**: Ja/Nee **Datum**: \_\_\_\_\_\_\_\_\_\_ **Versie**:
 Recent/Update nodig
@@ -287,7 +287,7 @@ Recent/Update nodig
 
 **Telefoonummer geverifieerd**: Ja/Nee
 
-### Close on CV (Afsluiting CV)
+Close on CV (Afsluiting CV)
 
 **CV update nodig**: Ja/Nee **Termijn afgesproken**:
 \_\_\_\_\_\_\_\_\_\_
@@ -297,7 +297,7 @@ Recent/Update nodig
 
 **netwerk categorie**: A-relatie/B-relatie/C-relatie
 
-## **Template F3: Client Intake Template Bullhorn**
+### **Template F3: Client Intake Template Bullhorn**
 
 **Bedrijf**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Contactpersoon**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Functie**:
@@ -306,7 +306,7 @@ Recent/Update nodig
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **LinkedIn**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Role and Responsibility (Rol & Verantwoordelijkheid Contactpersoon)
+Role and Responsibility (Rol & Verantwoordelijkheid Contactpersoon)
 
 **Functie binnen organisatie**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -319,7 +319,7 @@ Recent/Update nodig
 **Budget verantwoordelijkheid**: Ja/Nee **Tot welk bedrag**:
 €\_\_\_\_\_\_\_
 
-### Team/Department (Team & Afdeling)
+Team/Department (Team & Afdeling)
 
 **Afdeling naam**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -338,7 +338,7 @@ Recent/Update nodig
 
 **Team cultuur**: Formeel/Informeel/Gemengd
 
-### Ratio External/Internal (Verhouding Extern/Intern)
+Ratio External/Internal (Verhouding Extern/Intern)
 
 **Huidige externe medewerkers**: \_\_\_\_\_ van \_\_\_\_\_ totaal
 (\_\_\_\_%)
@@ -349,7 +349,7 @@ Recent/Update nodig
 
 **Ervaring met externe consultants**: \_\_\_\_\_ jaar
 
-### Need for Hiring (Recruitment Behoefte)
+Need for Hiring (Recruitment Behoefte)
 
 **Verwachte vacatures komende 6 maanden**: \_\_\_\_\_
 
@@ -369,7 +369,7 @@ Recent/Update nodig
 **Grootste uitdagingen in werving**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Way of Working (Huidige Werkwijze Recruitment)
+Way of Working (Huidige Werkwijze Recruitment)
 
 **Hoe pakken jullie recruitment aan**:
 
@@ -395,7 +395,7 @@ Recent/Update nodig
 **Selectiecriteria bureaus**:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Follow-up Appointment (Vervolgafspraak)
+Follow-up Appointment (Vervolgafspraak)
 
 **Volgende contact moment**: Datum: \_\_\_\_\_\_\_ Tijd: \_\_\_\_\_\_\_
 
