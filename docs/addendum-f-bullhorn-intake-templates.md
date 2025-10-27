@@ -40,9 +40,9 @@ Ideal Profile (Ideaal Kandidaatprofiel)
 
 **Must-have competenties**:
 
-1.
-2.
-3.
+1.  
+2.  
+3.  
 
 **Systemen/tools ervaring vereist**:
 
