@@ -2,18 +2,19 @@ site_name: Belsberg Sales Playbook
 
 theme:
   name: material
+  custom_dir: overrides
+
+extra:
+  footer: |
+    <p>Belsberg Sales Playbook – Pilotversie 1.1 (november 2025)</p>
+
 
 docs_dir: docs
 
 extra_css:
   - styles/brand.css
 
-extra:
-  generator: false
-  footer: |
-    <p style="font-size:0.8rem;color:#FFFFFF;text-align:center;">
-      <strong>Belsberg Sales Playbook – Pilotversie 1.1 (november 2025)</strong>
-    </p>
+
 
 markdown_extensions:
   - admonition
