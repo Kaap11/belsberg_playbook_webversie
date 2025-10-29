@@ -10,6 +10,7 @@ extra_css:
 
 
 extra:
+  Generator: false
   footer: |
     <hr style="margin-top:2em;opacity:0.2;">
     <p style="font-size:0.8rem;color:#FFFFFF;text-align:center;">
