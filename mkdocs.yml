@@ -1,11 +1,22 @@
 site_name: Belsberg Sales Playbook
 theme:
   name: material
+
 docs_dir: docs
-extra_css:
-- styles/brand.css
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+
+
 nav:
-- Inleiding: index.md
+- Inleiding - index.md
 - Hoofdstuk 1 – Approach calls & canvass (candidate): hoofdstuk-1-approach-calls-canvass-candidate.md
 - Hoofdstuk 2 – Prescreen & kwalificatie: hoofdstuk-2-prescreen-kandidaat-kwalificatie.md
 - Hoofdstuk 3 – Werkwijze & commitment: hoofdstuk-3-werkwijze-commitment.md
