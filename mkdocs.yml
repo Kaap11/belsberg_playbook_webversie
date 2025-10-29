@@ -5,6 +5,11 @@ theme:
 docs_dir: docs
 
 
+extra_css:
+  - styles/brand.css
+
+
+
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -16,7 +21,7 @@ markdown_extensions:
 
 
 nav:
-- Inleiding - index.md
+- Inleiding: index.md
 - Hoofdstuk 1 – Approach calls & canvass (candidate): hoofdstuk-1-approach-calls-canvass-candidate.md
 - Hoofdstuk 2 – Prescreen & kwalificatie: hoofdstuk-2-prescreen-kandidaat-kwalificatie.md
 - Hoofdstuk 3 – Werkwijze & commitment: hoofdstuk-3-werkwijze-commitment.md
