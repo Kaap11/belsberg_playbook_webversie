@@ -1,22 +1,19 @@
 site_name: Belsberg Sales Playbook
+
 theme:
   name: material
 
 docs_dir: docs
 
-
 extra_css:
   - styles/brand.css
 
-
 extra:
-  Generator: false
+  generator: false
   footer: |
-    <hr style="margin-top:2em;opacity:0.2;">
     <p style="font-size:0.8rem;color:#FFFFFF;text-align:center;">
       <strong>Belsberg Sales Playbook – Pilotversie 1.1 (november 2025)</strong>
     </p>
-
 
 markdown_extensions:
   - admonition
@@ -26,6 +23,9 @@ markdown_extensions:
   - attr_list
   - toc:
       permalink: true
+
+nav:
+  # (de rest van je navigatie blijft ongewijzigd)
 
 
 nav:
