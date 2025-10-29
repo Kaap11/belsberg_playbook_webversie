@@ -9,6 +9,13 @@ extra_css:
   - styles/brand.css
 
 
+extra:
+  footer: |
+    <hr style="margin-top:2em;opacity:0.2;">
+    <p style="font-size:0.75rem;color:#777;text-align:center;">
+      Belsberg Sales Playbook – Pilotversie 1.1 (november 2025)
+    </p>
+
 
 markdown_extensions:
   - admonition
