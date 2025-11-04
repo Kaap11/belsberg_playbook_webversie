@@ -1,16 +1,16 @@
-# **Hoofdstuk 3: Werkwijze & Commitment**
+# Hoofdstuk 3: Werkwijze & Commitment
 
-## **Wat, Waarom & Hoe**
+## Wat, Waarom & Hoe
 
 **Wat is Werkwijze & Commitment Communicatie?**  
 Het transparant uitleggen van hoe Belsberg werkt, wat onze toegevoegde waarde is, en welke afspraken we maken met klanten en kandidaten. Je positioneert jezelf als regisseur van het proces die vertrouwen wekt door duidelijkheid over verwachtingen, timing en wederzijdse verantwoordelijkheden.
 
 **Waarom is dit cruciaal?**
 
-- **Vertrouwen opbouwen:** Transparantie over jouw werkwijze creëert vertrouwen in jouw professionaliteit.
-- **Verwachtingen managen:** Voorkomt frustraties en misverstanden.
-- **Commitment verhogen:** Duidelijke afspraken versnellen het proces én verhogen slagingskans.
-- **Onderscheiding:** De meeste bureaus communiceren slecht over proces — jij wel.
+- **Vertrouwen opbouwen:** Transparantie over jouw werkwijze creëert vertrouwen in jouw professionaliteit.  
+- **Verwachtingen managen:** Voorkomt frustraties en misverstanden.  
+- **Commitment verhogen:** Duidelijke afspraken versnellen het proces én verhogen de slagingskans.  
+- **Onderscheiding:** De meeste bureaus communiceren slecht over proces — jij wel.  
 - **Professionaliteit:** Eigenaarschap over het proces onderscheidt je als strategisch partner.
 
 **Hoe communiceer je werkwijze & commitment effectief?**  
@@ -18,36 +18,40 @@ Door vanaf het eerste contact transparant uit te leggen wat er gaat gebeuren, wa
 
 ---
 
-## **1. Voorbereiding**
+## 1. Voorbereiding
 
 ### Wanneer leg je je werkwijze uit?
 
 **Bij Klanten:**
-- **Bij intake/start nieuwe vacature:** Direct bij het eerste gesprek over een opdracht.
-- **Bij nieuwe relaties:** Altijd bij het eerste contact met een nieuwe klant.
+
+- **Bij intake/start nieuwe vacature:** Direct bij het eerste gesprek over een opdracht.  
+- **Bij nieuwe relaties:** Altijd bij het eerste contact met een nieuwe klant.  
 - **Bij terugkerende klanten:** Refresh bij elke nieuwe opdracht.
 
 **Bij Kandidaten:**
-- **Tijdens prescreen gesprek:** Uitleg over hoe Belsberg werkt.
-- **Bij presentatie van opdracht:** Specifieke uitleg over het proces voor deze rol.
+
+- **Tijdens prescreen gesprek:** Uitleg over hoe Belsberg werkt.  
+- **Bij presentatie van opdracht:** Specifieke uitleg over het proces voor deze rol.  
 - **Voor elk interview:** Herhaling van proces en timingverwachtingen.
 
 ### Wat moet je voorbereiden?
 
 **Voor Klantgesprekken:**
-- Ken de urgentie van de vacature en projectcontext.
-- Bepaal hoeveel tijd je kunt investeren in sourcing (standaard: 2 dagen dedicated tijd).
-- Check beschikbaarheid in je agenda voor kandidaatgesprekken.
+
+- Ken de urgentie van de vacature en projectcontext.  
+- Bepaal hoeveel tijd je kunt investeren in sourcing (standaard: 2 dagen dedicated tijd).  
+- Check beschikbaarheid in je agenda voor kandidaatgesprekken.  
 - Bereid voor: hoeveel kandidaten ga je maximaal voorstellen (1-3).
 
 **Voor Kandidaatgesprekken:**
-- Check welke fase de kandidaat in zit.
-- Weet wat de kandidaat al weet over Belsberg.
+
+- Check welke fase de kandidaat in zit.  
+- Weet wat de kandidaat al weet over Belsberg.  
 - Bereid je voor op eventuele miscommunicatie uit het verleden.
 
 ---
 
-## **2. Uitvoering**
+## 2. Uitvoering
 
 ### A. Werkwijze Uitleg aan Klanten (bij start vacature)
 
@@ -67,7 +71,7 @@ Door vanaf het eerste contact transparant uit te leggen wat er gaat gebeuren, wa
 >  
 > **Commitmentvraag:** Kunnen we dit afspreken?"
 
-Voor uitgebreide scripts en varianten, zie **Addendum E, Scripts E11-E13**.
+Voor uitgebreide scripts en varianten, zie *Addendum E, Scripts E11-E13*.
 
 ---
 
@@ -98,7 +102,7 @@ Voor uitgebreide scripts en varianten, zie **Addendum E, Scripts E11-E13**.
 >  
 > Vragen?"
 
-Voor volledige scripts, zie **Addendum E, Scripts E14-E15**.
+Voor volledige scripts, zie *Addendum E, Scripts E14-E15*.
 
 ---
 
@@ -107,17 +111,21 @@ Voor volledige scripts, zie **Addendum E, Scripts E14-E15**.
 **Het probleem:**  
 Klanten zeggen "ja" op afspraken, maar geven vervolgens toch laat of geen feedback omdat er **geen concreet tijdstip** is afgesproken.
 
-**De oplossing:** Plan feedbackmomenten direct in.
+**De oplossing:**  
+Plan feedbackmomenten direct in.
 
 **Voorbeeld bij klant:**
+
 > "Ik stuur de profielen door, verspreid over de komende 2 dagen — het is nu maandag.  
 > Wat als we **woensdagochtend om 10:00 uur** kort bellen om samen af te stemmen wat de volgende stap is?  
 > Mocht je voor dat moment al tijd hebben om naar de cv’s te kijken, heel graag — dan kunnen we tijdens het belmoment meteen doorpakken. Deal?"
 
 **Voorbeeld bij kandidaat:**
+
 > "Ik bel je **morgen tussen 14:00 en 15:00** zodra ik feedback van de klant heb ontvangen. Houd je telefoon in de buurt!"
 
 **Focus op voordelen voor de ander:**
+
 - ❌ **Niet:** "Ik wil graag snel feedback."  
 - ✅ **Wel:** "Zodat jullie geen goede kandidaten mislopen."
 
@@ -126,6 +134,7 @@ Klanten zeggen "ja" op afspraken, maar geven vervolgens toch laat of geen feedba
 ### D. Timing & Responseverwachtingen Communiceren
 
 **Naar kandidaten:**
+
 > "Ik streef ernaar op dezelfde dag of eerder te reageren op je berichten tijdens kantooruren.  
 > Voor urgente zaken kun je me altijd bellen."  
 >
@@ -133,20 +142,23 @@ Klanten zeggen "ja" op afspraken, maar geven vervolgens toch laat of geen feedba
 > Van interview tot feedback krijg je **dezelfde dag** nog — meestal binnen 2 uur nadat ik met de klant heb gesproken."
 
 **Naar klanten:**
+
 > "Na het interview bel ik eerst de kandidaat voor feedback (binnen 2 uur). Daarna bel ik jullie, meestal **diezelfde dag** nog."
 
 ---
 
-## **3. Opvolging**
+## 3. Opvolging
 
 ### Afspraken Nakomen
 
 **Wekelijkse check met jezelf:**
-- Heb ik alle beloofde reactietijden gehaald deze week?
-- Heb ik alle geplande feedbackcalls uitgevoerd op de afgesproken tijd?
+
+- Heb ik alle beloofde reactietijden gehaald deze week?  
+- Heb ik alle geplande feedbackcalls uitgevoerd op de afgesproken tijd?  
 - Zijn er klanten of kandidaten die te lang niets van me hebben gehoord?
 
 **Proactieve communicatie bij wijzigingen:**
+
 > "Hi [naam], ik heb vandaag nog geen nieuws van [klant/kandidaat].  
 > Dat betekent meestal dat ze nog intern afstemmen.  
 > Ik verwacht morgen meer duidelijkheid en bel je direct zodra ik iets hoor.  
@@ -154,27 +166,31 @@ Klanten zeggen "ja" op afspraken, maar geven vervolgens toch laat of geen feedba
 
 ---
 
-## **Quick Reference: Werkwijze Communicatie Checklist**
+## Quick Reference: Werkwijze Communicatie Checklist
 
 **Bij Start Nieuwe Klantrelatie:**
-- ✅ Werkwijze uitgelegd (2 dagen sourcing, 1-3 kandidaten, no cure no pay)
-- ✅ Concrete tijdslots voor interviews gereserveerd
-- ✅ Feedbacktiming afgesproken (specifieke datum/tijd)
+
+- ✅ Werkwijze uitgelegd (2 dagen sourcing, 1-3 kandidaten, no cure no pay)  
+- ✅ Concrete tijdslots voor interviews gereserveerd  
+- ✅ Feedbacktiming afgesproken (specifieke datum/tijd)  
 - ✅ Commitment gevraagd voor actieve samenwerking
 
 **Bij Start Nieuwe Kandidaatrelatie:**
-- ✅ Werkwijze uitgelegd (5-stappen proces)
-- ✅ Verwachtingen helder: transparantie, relevante opdrachten, eerlijke feedback
-- ✅ Timing gecommuniceerd: 24 uur feedback, 2-5 dagen screening tot interview
+
+- ✅ Werkwijze uitgelegd (5-stappen proces)  
+- ✅ Verwachtingen helder: transparantie, relevante opdrachten, eerlijke feedback  
+- ✅ Timing gecommuniceerd: 24 uur feedback, 2-5 dagen screening tot interview  
 - ✅ Wederzijdse verwachtingen besproken
 
 **Bij Elke Belangrijke Processtap:**
-- ✅ Concreet tijdstip gepland voor feedback (niet "binnenkort")
-- ✅ Volgende stappen helder met concrete data
-- ✅ Bevestiging dat afspraken duidelijk zijn
+
+- ✅ Concreet tijdstip gepland voor feedback (niet "binnenkort")  
+- ✅ Volgende stappen helder met concrete data  
+- ✅ Bevestiging dat afspraken duidelijk zijn  
 - ✅ Proactief gecommuniceerd bij wijzigingen
 
 **Do’s en Don’ts:**
+
 - ✅ **Concrete tijdstippen plannen** ("woensdag 10:00")  
 - ✅ **Voordelen voor de ander vooropstellen**  
 - ✅ **Proactief communiceren bij wijzigingen**  
