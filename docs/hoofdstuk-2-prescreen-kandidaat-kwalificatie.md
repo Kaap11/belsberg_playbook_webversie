@@ -2,9 +2,9 @@
 
 ## **Wat, Waarom & Hoe**
 
-Een **Prescreen & Kandidaat Kwalificatie** is een gestructureerd gesprek van 20–30 minuten met een freelance professional waarin je zowel de kandidaat leert kennen voor toekomstige kansen als direct kwalificeert voor specifieke opdrachten. Dit geïntegreerde proces combineert kennismaking met doelgerichte screening via het **GASS-framework** voor snelle freelance plaatsingen.
+Een **prescreen & kandidaat kwalificatie** is een gestructureerd gesprek van 20–30 minuten met een freelance professional waarin je zowel de kandidaat leert kennen voor toekomstige kansen als direct kwalificeert voor specifieke opdrachten. Dit geïntegreerde proces combineert kennismaking met doelgerichte screening via het **GASS-framework** voor snelle freelance plaatsingen.
 
-**Waarom zijn geïntegreerde Prescreen & Kwalificatie cruciaal voor freelance succes?**
+**Waarom zijn prescreen & kwalificatie cruciaal voor succes?**
 
 - **Snelheid is koning:** De eerste kwalitatief sterke profielen winnen; efficiënte screening binnen 30 minuten geeft je voorsprong.
 - **Dubbele efficiency:** Eén gesprek dient zowel relatieopbouw voor de lange termijn als directe kwalificatie voor huidige opdrachten.
@@ -13,7 +13,7 @@ Een **Prescreen & Kandidaat Kwalificatie** is een gestructureerd gesprek van 20�
 - **Leadgeneratie:** Gemiddeld levert elke prescreen waardevolle leads op voor nieuwe business.
 - **Relatieopbouw:** Je creëert vertrouwen en partnership voor zowel huidige als toekomstige kansen.
 
-**Hoe voer je een effectieve geïntegreerde Prescreen & Kwalificatie uit?**  
+**Hoe voer je een effectieve prescreen & kwalificatie uit?**  
 Via een **gestroomlijnde 6-fasen structuur** die binnen 30 minuten zowel volledige kwalificatie via het GASS-framework oplevert als een waardevolle relatie opbouwt voor de lange termijn.
 
 ---
